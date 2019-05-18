@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","style.css"],"names":[],"mappings":"AAAA,KACI,qBACJ,CCFA,qBACI,WAAW,CACX,UAAU,CACV,iBACJ","file":"main.f702abf9.chunk.css","sourcesContent":["body{\r\n    background-color:#FFFFFF;\r\n}","div.table-responsive{\r\n    height:60vh;\r\n    width:50vw;\r\n    overflow-y: scroll;\r\n}\r\n"]}
